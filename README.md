@@ -4,6 +4,11 @@
 
 This dashboard provides a visual representation of the total payroll for teams across various sports leagues, ranked based on their previous year's performance.
 
+
+<img width="1417" height="643" alt="image" src="https://github.com/user-attachments/assets/e1913d58-251a-4b54-9f89-18708b13848c" />
+
+
+
 **Key Metrics:**
 
 · **Sum of Total Payroll**: Displays the total payroll for each team.
