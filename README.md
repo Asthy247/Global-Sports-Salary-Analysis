@@ -1,4 +1,4 @@
-# Global Sports Salary Analysis Data Source: Top teams Payroll List (Global Sport Finances)
+# Global Sports Salary Analysis
 
 **Tableau Dashboard Overview:**
 
