@@ -8,6 +8,8 @@ This dashboard provides a visual representation of the total payroll for teams a
 <img width="1417" height="643" alt="image" src="https://github.com/user-attachments/assets/e1913d58-251a-4b54-9f89-18708b13848c" />
 
 
+**View Live Dashboard:**
+[Global Sports Salary Analysis Dashboard on Tableau Public](https://public.tableau.com/views/TopTeamsPayrollAnalysis/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 **Key Metrics:**
 
