@@ -11,11 +11,15 @@ This dashboard provides a visual representation of the total payroll for teams a
 **View Live Dashboard:**
 [Global Sports Salary Analysis Dashboard on Tableau Public](https://public.tableau.com/views/TopTeamsPayrollAnalysis/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+
+
 **Key Metrics:**
 
 · **Sum of Total Payroll**: Displays the total payroll for each team.
 
 · **Last Year's Rank:** Categorizes teams based on their ranking in the previous year.
+
+
 
 
 **Visualizations:**
@@ -36,7 +40,7 @@ This dashboard provides a visual representation of the total payroll for teams a
 
 · **NFL and MLB**: Given the higher payrolls in these leagues, teams might consider strategies to optimize their spending to maintain competitiveness while managing costs.
 
-·** NBA and NHL**: Teams in these leagues could explore ways to increase revenue streams or negotiate more favorable contracts to compete with higher-paying leagues.
+·**NBA and NHL:** Teams in these leagues could explore ways to increase revenue streams or negotiate more favorable contracts to compete with higher-paying leagues.
 
 · **Emerging Leagues**: Leagues with lower average salaries might focus on attracting talent through other incentives like player development opportunities or long-term contracts.
 
